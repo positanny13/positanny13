@@ -1,4 +1,4 @@
-Tanimowo Possible
+Tanimowo Possible: I am an
 
 
 Innovative and Scientifically rigorous undergraduate with a significant data science internship experience to bring to the table.
