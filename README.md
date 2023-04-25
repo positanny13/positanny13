@@ -4,6 +4,10 @@ With a team-oriented attitude, I am eager to contribute my abilities in quantita
 Also I’m excited to apply my passion for data science to the collaborative efforts of any team focused on insightful, high-quality data analytics and visualizations.
 
 Skills
+
+
+
+
 Programming Languages: Python, R, C++.
 Data Analysis: data cleaning, data visualization, exploratory data analysis, statistical inference, etc.]
 Machine Learning: linear regression, logistic regression, decision trees, random forests, neural networks, etc.]
