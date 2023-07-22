@@ -1,9 +1,7 @@
 
-I am an Innovative and Scientifically rigorous undergraduate with a significant data science internship experience to bring to the table.
-With a team-oriented attitude, I am eager to contribute my abilities in quantitative modeling, data integrity, visualization, and statistics.
-Also I’m excited to apply my passion for data science to the collaborative efforts of any team focused on insightful, high-quality data analytics and visualizations.
 
-Skills
+
+Individual Skills
 
 
 
