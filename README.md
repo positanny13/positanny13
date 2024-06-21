@@ -12,7 +12,7 @@ Data Analysis: data cleaning, data visualization, exploratory data analysis, sta
 
 
 💻 Tech Stack:
- Jupyter Notebook, Pandas, NumPy, scikit-learn,Python,Machine Learning: linear regression, logistic regression, decision trees, random forests, neural networks, etc. 
+ Excel, Microsoft NAV,Jupyter Notebook, Pandas, NumPy, scikit-learn,Python,Machine Learning: linear regression, logistic regression, decision trees, random forests, neural networks, etc. 
 
 
 
