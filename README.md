@@ -18,7 +18,7 @@ Data Analysis: data cleaning, data visualization, exploratory data analysis, sta
 
 Contact
 Email: possibletanimowo13@gmail.com
-LinkedIn: https://www.linkedin.com/in/tanimowo-possible-18996a270/
+LinkedIn: https://www.linkedin.com/in/tanimowo-possible/
 
 
 
